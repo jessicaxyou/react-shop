@@ -54,7 +54,7 @@ const Item = ({item}) => {
             <p className="item-name">{item.descriptions}</p>
             <p className="item-name">${item.price}</p>
             <p className="item-name">Quantity: {item.quantity}</p>
-            <form onSubmit = {handleSubmit}>
+            <form onSubmit = {handleSubmit} className ="center">
                 <select>
                     <option> 1 </option>
                     <option> 2 </option>

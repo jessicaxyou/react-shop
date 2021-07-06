@@ -38,6 +38,35 @@
     }
   ],
   "cartItems": [
-    
+    {
+      "quantity": "3",
+      "name": "Linen Top",
+      "price": 16.99,
+      "id": 1
+    },
+    {
+      "quantity": "1",
+      "name": "Pegasus Earrings",
+      "price": 50,
+      "id": 2
+    },
+    {
+      "quantity": "2",
+      "name": "Linen Top",
+      "price": 16.99,
+      "id": 3
+    },
+    {
+      "quantity": "1",
+      "name": "Floral Square Neck Midi Dress",
+      "price": 38.5,
+      "id": 4
+    },
+    {
+      "quantity": "1",
+      "name": "Linen Top",
+      "price": 16.99,
+      "id": 5
+    }
   ]
 }

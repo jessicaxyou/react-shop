@@ -28,10 +28,15 @@ const Cart = () => {
             )
     }
 
+    const checkout = () => {
+        cartItems.length = 0
+    }
+
 
     return(
         <div id="cart">
             {establishCartItems()}
+            <button onCLick={checkout} className ="center">Checkout</button>
         </div>
     )
 }
