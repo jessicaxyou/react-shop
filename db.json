@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Linen Top",
+      "imgURL": "https://ae01.alicdn.com/kf/He6b7d16562b74da581817b35101daf13x/Women-Cotton-Linen-Tops-and-Blouse-Female-Long-Sleeve-V-Neck-Shirt-Women-Plus-Size-5XL.jpg_q50.jpg",
+      "imgURL2": "https://ae01.alicdn.com/kf/H50c84a0dd4634cf5bc06205273be7e1a1/Women-Cotton-Linen-Tops-and-Blouse-Female-Long-Sleeve-V-Neck-Shirt-Women-Plus-Size-5XL.jpg_q50.jpg",
+      "descriptions": "Breathable cotton material with V-Neck design.",
+      "quantity": 50,
+      "price": 16.99
+    },
+    {
+      "id": 2,
+      "name": "Denim Shorts",
+      "imgURL": "https://cdn-images.farfetch-contents.com/14/16/01/84/14160184_18904041_600.jpg",
+      "imgURL2": "https://cdn-images.farfetch-contents.com/14/16/01/84/14160184_18904042_1000.jpg",
+      "descriptions": "Distressed cotton denim shorts featuring belt loops, a button, and concealed fly fastening.",
+      "quantity": 100,
+      "price": 32
+    },
+    {
+      "id": 3,
+      "name": "Pegasus Earrings",
+      "imgURL": "https://assets.stelladot.com/catalog_service/system/images/style/original/2e3231127f6a5ad3f2150738b376e2ff8d549748.jpg?1546943763",
+      "imgURL2": "https://assets.stelladot.com/catalog_service/system/images/style/original/e264f23e1fa46a028707974d199c3565b4b4d937.jpg?1528925518",
+      "descriptions": "These striking statement earrings feature vintage gold feather motifs with shiny silver chain detail all hand sewn on genuine leather.",
+      "quantity": 35,
+      "price": 50
+    },
+    {
+      "id": 4,
+      "name": "Floral Square Neck Midi Dress",
+      "imgURL": "https://anninc.scene7.com/is/image/LO/559766_1856?$fullBpdp$",
+      "imgURL2": "https://anninc.scene7.com/is/image/LO/559766_1856_D1?$fullBpdp$",
+      "descriptions": "From a flattering square neck and elasticized waist to pretty puffed sleeves and flowy tiers, this midi dress is an eternal bohemian-chic dream.",
+      "quantity": 60,
+      "price": 38.5
+    }
+  ],
+  "cartItems": [
+    
+  ]
+}
